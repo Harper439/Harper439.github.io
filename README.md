@@ -37,7 +37,7 @@
          <div class="clearfix"></div>
  </div>
       <div class="name-wrapper">
-        <h1>John <br/>Anderson</h1><!-- YOUR NAME AND LAST NAME  -->
+        <h1>Harper <br/>Miller</h1><!-- YOUR NAME AND LAST NAME  -->
       </div>
       <div class="clearfix"></div>
       <div class="contact-info clearfix">

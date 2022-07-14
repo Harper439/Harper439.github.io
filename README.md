@@ -86,26 +86,30 @@
         </div>
         
         <div class="company-wrapper clearfix">
-      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-          <div class="time">Nov 2010 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      		<div class="experience-title">JMH Companies</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Jul 2021 - Oct 2021</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
       	</div>
         
          <div class="job-wrapper clearfix">
-        	<div class="experience-title">Freelance, Web Designer / Web Developer</div> <!-- JOB TITLE  -->
+        	<div class="experience-title">Information Technology Intern</div> <!-- JOB TITLE  -->
           <div class="company-description">
-          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>  <!-- JOB DESCRIPTION  -->
+          	<p>Performed various duties under the CIO to assist with the technological development of the company. Tasks performed include rewriting the company security policy, revamping the security of code development, and creating a convenient and easy-to-use RFP reference form that covers over 200 instances, among other things.
+    Key Accomplishments:	
+●	Performed a complete revamp of security policies within the company that will be referenced for many years
+●	Helped lead an effort to make security of our software better that involved researching different solutions and facilitating a deal between our company and another
+</p>  <!-- JOB DESCRIPTION  -->
           </div>
         </div>
         
         <div class="company-wrapper clearfix">
-      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-          <div class="time">Nov 2009 - Nov 2010</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      		<div class="experience-title">Evolution of Flight</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Jan 2021 - May 2021</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
       	</div> 
         
          <div class="job-wrapper clearfix">
-        	<div class="experience-title">Web Designer </div> <!-- JOB TITLE  -->
+        	<div class="experience-title">Benchmark Team Member</div> <!-- JOB TITLE  -->
           <div class="company-description">
-          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>   <!-- JOB DESCRIPTION  -->
+          	<p>Assisted with final development of the Evolution of Flight application.  This involved rigorous testing, research, and editing of the application daily followed by weekly status updates and a final presentation at the end of the semester.  Client was very satisfied with the final project and our team received a high grade in the course.</p>   <!-- JOB DESCRIPTION  -->
           </div>
         </div>
         
@@ -114,12 +118,17 @@
       <div class="section-wrapper clearfix">
       	<h3 class="section-title">Skills</h3>  <!-- YOUR SET OF SKILLS  -->
         	<ul>
-        		<li class="skill-percentage">HTML / HTML5</li>
-        		<li class="skill-percentage">CSS / CSS3 / SASS / LESS</li>
-        		<li class="skill-percentage">Javascript</li>
-        		<li class="skill-percentage">Jquery</li>
-        		<li class="skill-percentage">Wordpress</li>
-        		<li class="skill-percentage">Photoshop</li>
+        		<li class="skill-percentage">Java</li>
+        		<li class="skill-percentage">C++</li>
+        		<li class="skill-percentage">PHP</li>
+        		<li class="skill-percentage">HTML</li>
+        		<li class="skill-percentage">Golang</li>
+        		<li class="skill-percentage">Microsoft Excel, Word, Powerpoint</li>
+			<li class="skill-percentage">MATLAB</li>
+			<li class="skill-percentage">CAD</li>
+			<li class="skill-percentage">VHDL</li>
+			<li class="skill-percentage">Python</li>
+			<li class="skill-percentage">Javascript</li>
             
         	</ul>
         

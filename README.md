@@ -48,25 +48,21 @@
       		<li>Home</li>
       	</ul>
         <ul class="list-content ">
-        	<li>+34 123 456 789</li> <!-- YOUR PHONE NUMBER  -->
-        	<li>j.anderson@gmail.com</li> <!-- YOUR EMAIL -->
-        	<li><a href="#">janderson.com</a></li> <!-- YOUR WEBSITE  -->
-        	<li>Los Angeles, CA</li> <!-- YOUR STATE AND COUNTRY  -->
+        	<li>504-982-2916</li> <!-- YOUR PHONE NUMBER  -->
+        	<li>harper709@gmail.com</li> <!-- YOUR EMAIL -->
+        	<li><a href="#">https://harper439.github.io/</a></li> <!-- YOUR WEBSITE  -->
+        	<li>New Orleans, LA</li> <!-- YOUR STATE AND COUNTRY  -->
         </ul>
       </div>
       <div class="contact-presentation"> <!-- YOUR PRESENTATION RESUME  -->
-      	<p><span class="bold">Lorem</span> ipsum dolor sit amet, consectetur adipiscing elit. Vivamus euismod congue nisi, nec consequat quam. In consectetur faucibus turpis eget laoreet. Sed nec imperdiet purus. </p>
+      	<p><span class="bold"> </p>
       </div>
       <div class="contact-social clearfix">
       	<ul class="list-titles">
-      		<li>Twitter</li>
-      		<li>Dribbble</li>
-      		<li>Codepen</li>
+      		
       	</ul>
         <ul class="list-content"> <!-- REMEMBER TO PUT THE URL ON THE HREF TAG  -->
-      		<li><a href="">@janderson</a></li> <!-- YOUR TWITTER USER  -->
-      		<li><a href="">janderson</a></li> <!-- YOUR DRIBBBLE USER  -->
-      		<li><a href="">janderson</a></li> <!-- YOUR BEHANCE USER  -->
+      	
       	</ul>
       </div>
 		</div>
@@ -78,14 +74,14 @@
       
       <div class="experience-wrapper">
       	<div class="company-wrapper clearfix">
-      		<div class="experience-title">Company name</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
-          <div class="time">Nov 2012 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      		<div class="experience-title">Synergy Building Solutions</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">Oct 2021 - Present</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
       	</div>
         
         <div class="job-wrapper clearfix">
-        	<div class="experience-title">Front End Developer </div> <!-- JOB TITLE  -->
+        	<div class="experience-title">Engineering Specialist </div> <!-- JOB TITLE  -->
           <div class="company-description">
-          	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>  <!-- JOB DESCRIPTION  -->
+          	<p>Help with the design process of HVAC controls integration projects that lead to an increase in energy consumption savings as well as more effective automation systems.  Also responsible for gathering information for (as well as performing) energy savings calculations for Entergy’s Energy Smart program. Additionally, assisted in creating software to help the company’s service team create, store, and edit tickets submitted by customers needing assistance.</p>  <!-- JOB DESCRIPTION  -->
           </div>
         </div>
         

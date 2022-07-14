@@ -133,10 +133,10 @@
       </div>
       
       <div class="section-wrapper clearfix">
-        <h3 class="section-title">Hobbies</h3>  <!-- DESCRIPTION OF YOUR HOBBIES -->
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p>
+        <h3 class="section-title"></h3>  <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p></p>
         
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a elit facilisis, adipiscing leo in, dignissim magna.</p> 
+        <p></p> 
       </div>
       
   	</div>

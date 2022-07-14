@@ -55,8 +55,7 @@
         </ul>
       </div>
       <div class="contact-presentation"> <!-- YOUR PRESENTATION RESUME  -->
-      	<p><span class="bold"> </p>
-      </div>
+      	<p><span class="bold"> 
       <div class="contact-social clearfix">
       	<ul class="list-titles">
       		
@@ -65,8 +64,7 @@
       	
       	</ul>
       </div>
-		</div>
-	</section>
+		
   
   <section class="experience section-padding">
   	<div class="container">

@@ -4,7 +4,7 @@
 		<div class="container">
 			<div class="picture-resume-wrapper">
         <div class="picture-resume">
-        <span><img src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg" alt="" /></span>
+        <span><img src="[https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd0%2FDayton_Flyers_logo.svg%2F1200px-Dayton_Flyers_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDayton_Flyers&tbnid=KdMhSwVjug-29M&vet=12ahUKEwjLu4rE9Pv4AhVDcDwKHZbYD6sQMygAegUIARDRAQ..i&docid=Jw4w-N9Y7L4lEM&w=1200&h=762&q=university%20of%20dayton%20logo&ved=2ahUKEwjLu4rE9Pv4AhVDcDwKHZbYD6sQMygAegUIARDRAQ)" alt="" /></span>
         <svg version="1.1" viewBox="0 0 350 350">
   
   <defs>
